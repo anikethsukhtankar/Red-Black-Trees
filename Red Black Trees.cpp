@@ -2,7 +2,7 @@
 //  rbtree.cpp
 //  Red Black Tree
 //
-//  Created by Shailee Desai on October 26, 2016.
+//  Created by Aniketh Sukhtankar on October 26, 2016.
 //  C++ Program to Implement Red Black Tree
 //  Implements a Red Black Tree class.
 //**************************************************************
